@@ -1,0 +1,195 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	width: 100%;
+    height: 61px;
+    margin: 0px;
+    background-color: #1369b4;
+    background-image: url(Лого.png);
+    background-repeat: no-repeat;
+    background-position: 167px;
+}
+
+
+#blok{
+	width: 966px;
+    border: 1px solid #1369b4;
+    margin: 0px auto;
+    margin-left: 168px;
+    height: 286px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+
+}
+
+#sortby{
+    width: 150px;
+    border: 1px solid #1369b4;
+    margin: 0px auto;
+    margin-top: 20px;
+    margin-left: 168px;
+    height: 30px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.blok2{
+	display: none;
+}
+#blue{
+	width: 968px;
+    height: 36px;
+    background-color: #1369b4;
+    margin-top: 24px;
+    margin-left: 168px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+
+}
+img{
+	margin-left: 6px;
+    margin-top: 6px;
+}
+
+#pet{
+	width: 777px;
+    box-sizing: border-box;
+    display: block;
+    margin-left: 174px;
+    margin-top: 14px;
+    height: 30px;
+}
+#owner{
+	width: 777px;
+    box-sizing: border-box;
+    display: block;
+    margin-left: 174px;
+    margin-top: 11px;
+    height: 30px;
+}
+
+#date{
+	width: 295px;
+    box-sizing: border-box;
+    display: inline;
+    margin-left: 174px;
+    margin-top: 12px;
+    height: 30px;
+}
+#time{
+	width: 295px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-left: 184px;
+    margin-top: 12px;
+    height: 30px;
+}
+#add{
+	margin-left: 829px;
+    margin-top: 13px;
+    width: 121px;
+    height: 28px;
+    border-radius: 2px;
+    border: none;
+    color: white;
+    background-color: #1369b4;
+}
+
+span{
+	position: absolute;
+    margin-top: 20px;
+    margin-left: 84px;
+    font-weight: 700;
+}
+
+#spanOwner{
+	margin-left: 76px;
+    margin-top: 18px;
+}
+
+#spanDate{
+	margin-left: 117px;
+    margin-top: 18px;
+}
+#spanTime{
+	margin-top: 18px;
+    margin-left: 124px;
+}
+#Apt{
+	position: relative;
+    left: -9px;
+    bottom: -18px;
+}
+
+#node{
+	width: 890px;
+    margin-left: 207px;
+    margin-top: 55px;
+    
+}
+
+h1{
+	position: absolute;
+    bottom: 34px;
+    font-size: 21px;
+    left: 39px;
+    color: #1369b4;
+
+}
+
+.owner{
+	position: absolute;
+    bottom: 13px;
+    left: 38px;
+}
+
+.DateN{
+	position: absolute;
+    /* display: inline-block; */
+    bottom: 34px;
+    right: 0;
+}
+
+.timeN{
+	position: absolute;
+    /* display: inline-block; */
+    bottom: 35px;
+    left: 828px;
+}
+
+.button2{
+	position: absolute;
+    bottom: 51px;
+    left: 8px;
+    background-color: red;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    
+}
+
+.div{
+	width: 890px;
+    height: 68px;
+    border-bottom: 1px solid;
+    margin-top: 50px;
+    position: relative;
+}
+
+#notes{
+	width: 777px;
+    box-sizing: border-box;
+    display: block;
+    margin-left: 174px;
+    margin-top: -6px;
+    height: 80px;
+}
+
+.Anotes{
+	position: absolute;
+    bottom: -7px;
+    left: 38px;
+}
+
